@@ -11,6 +11,7 @@ function App() {
     <>
       <h1 className="text-3xl font-bold text-center">Hello Vite + React!</h1>
       <Navbar />
+      <Navbar />
     </>
   );
 }
